@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ツバメ",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-04T13:45:55.164480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツバメ (feat. ミドリーズ)",
+      "artist": "YOASOBI feat. ミドリーズ",
+      "has_synced": true,
+      "path": "select/01_ツバメ_(feat._ミドリーズ)_YOASOBI_feat._ミドリーズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ツバメ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_ツバメ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ツバメ (feat. ミドリーズ)",
+      "artist": "YOASOBI/ミドリーズ",
+      "has_synced": true,
+      "path": "select/03_ツバメ_(feat._ミドリーズ)_YOASOBI_ミドリーズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ツバメ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_ツバメ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ツバメ",
+      "artist": "YOASOBI with ミドリーズ",
+      "has_synced": true,
+      "path": "select/05_ツバメ_YOASOBI_with_ミドリーズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ツバメ (feat. ミドリーズ)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/06_ツバメ_(feat._ミドリーズ)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ツバメ",
+      "artist": "YOASOBI; ミドリーズ",
+      "has_synced": true,
+      "path": "select/07_ツバメ_YOASOBI;_ミドリーズ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ツバメ (feat. Midories)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_ツバメ_(feat._Midories)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ツバメ (feat. ミドリーズ)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/09_ツバメ_(feat._ミドリーズ)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ツバメ (feat. ミドリーズ)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/10_ツバメ_(feat._ミドリーズ)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ツバメ",
+      "artist": "YOASOBI feat. ミドリーズ",
+      "has_synced": true,
+      "path": "select/11_ツバメ_YOASOBI_feat._ミドリーズ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ツバメ",
+      "artist": "YOASOBI feat. Midories",
+      "has_synced": true,
+      "path": "select/12_ツバメ_YOASOBI_feat._Midories.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ツバメ (feat. ミドリーズ)",
+      "artist": "YOASOBI/ミドリーズ",
+      "has_synced": true,
+      "path": "select/13_ツバメ_(feat._ミドリーズ)_YOASOBI_ミドリーズ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ツバメ",
+      "artist": "YOASOBI with ミドリーズ",
+      "has_synced": true,
+      "path": "select/14_ツバメ_YOASOBI_with_ミドリーズ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ツバメ",
+      "artist": "YOASOBI feat. ミドリーズ",
+      "has_synced": true,
+      "path": "select/15_ツバメ_YOASOBI_feat._ミドリーズ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ツバメ feat. Midories",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/16_ツバメ_feat._Midories_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ツバメ (feat. ミドリーズ)",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/17_ツバメ_(feat._ミドリーズ)_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ツバメ",
+      "artist": "YOASOBI, ミドリーズ",
+      "has_synced": true,
+      "path": "select/18_ツバメ_YOASOBI,_ミドリーズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツバメ",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_ツバメ_YOASOBI.txt"
+    }
+  ]
+}
